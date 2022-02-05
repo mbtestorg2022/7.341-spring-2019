@@ -54,18 +54,177 @@ The course will be graded as "pass" or "fail." A passing grade will be given to 
 Calendar
 --------
 
-| week # | topics | key dates |
-| --- | --- | --- |
-| 1 | Overview | &nbsp; |
-| 2 | From the discovery of mRNA to the “central dogma” | &nbsp; |
-| 3 | From the discovery of splicing to studying entire “transcriptomes” | &nbsp; |
-| 4 | What is a gene really? From baby RNAs to mature mRNAs | Abstracts handed out for written assignment |
-| 5 | How mRNAs are synthesized | &nbsp; |
-| 6 | How you start is how you proceed: promoter control of alternative splicing and processing | &nbsp; |
-| 7 | miRNAs: small RNAs making a big splash | Written assignment due |
-| 8 | Field trip to [Arrakis Therapeutics](http://arrakistx.com/) | &nbsp; |
-| 9 | siRNAs: How silencing almost any gene became easy and cheap | &nbsp; |
-| 10 | It’s after the stop, yet somehow on top. How the 3’UTR regulates the function of encoded proteins | &nbsp; |
-| 11 | Raise the shields (and scissors)! piRNA and CRISPR are defensive RNA-weapon systems | &nbsp; |
-| 12 | Easy to miss, hard to degrade: circular RNA and lncRNAs | &nbsp; |
-| 13 | Integration of classes, writing assignment, and course discussion | Oral presentation due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+week #
+{{< thclose >}}
+{{< thopen >}}
+topics
+{{< thclose >}}
+{{< thopen >}}
+key dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+From the discovery of mRNA to the “central dogma”
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+From the discovery of splicing to studying entire “transcriptomes”
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+What is a gene really? From baby RNAs to mature mRNAs
+{{< tdclose >}}
+{{< tdopen >}}
+Abstracts handed out for written assignment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+How mRNAs are synthesized
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+How you start is how you proceed: promoter control of alternative splicing and processing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+miRNAs: small RNAs making a big splash
+{{< tdclose >}}
+{{< tdopen >}}
+Written assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip to [Arrakis Therapeutics](http://arrakistx.com/)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+siRNAs: How silencing almost any gene became easy and cheap
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+It’s after the stop, yet somehow on top. How the 3’UTR regulates the function of encoded proteins
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Raise the shields (and scissors)! piRNA and CRISPR are defensive RNA-weapon systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Easy to miss, hard to degrade: circular RNA and lncRNAs
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Integration of classes, writing assignment, and course discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentation due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
